@@ -1,0 +1,19 @@
+h5{
+    color: indianred
+}
+h2{
+    font-family:'Times New Roman', Times, serif;
+    color:slateblue;
+    margin-top: 20px;
+    
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    color: darkred;
+}
+/*ul {
+
+    list-style-type: none;
+    padding-left: 15px;
+    padding-right: 15px;
+  } */
